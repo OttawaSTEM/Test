@@ -3,8 +3,6 @@ $ y = ax + b $
 $ y = 1 * 2 + 3  $
 
 Second Group
-Second Group
-
 $ y = x + 1 $
 $ x = y + 2 $
 
